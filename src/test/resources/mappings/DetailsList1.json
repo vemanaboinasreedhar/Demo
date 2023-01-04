@@ -1,0 +1,22 @@
+{
+	"request":{
+		"method":"GET",
+		"urlPath":"/students",
+		"headers":
+		{
+			"Content-Type": {
+				"contains": "application/json"
+				}
+			}
+		},
+	"response":{
+		"status": "ok",
+		"bodyFileName":"DetailsList2.json",
+		"headers":
+		{
+			"Content-Type": {
+				"cantains": "application/json"
+				}
+			}
+	}
+}
